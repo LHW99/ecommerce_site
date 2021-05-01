@@ -37,7 +37,7 @@
           </div>
 
           <hr>
-            Or <router-link to='/log-in'>click here</router-link> to log in!
+            Or <router-link to='/login'>click here</router-link> to log in!
         </form>
       </div>
     </div>
